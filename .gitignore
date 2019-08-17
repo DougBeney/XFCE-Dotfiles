@@ -1,5 +1,9 @@
 *
 *.*
+
+# Whitelist
+!README.md
+!screenshot.png
 !.gitignore
 !xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml
 !xfconf/xfce-perchannel-xml/xfce4-panel.xml
