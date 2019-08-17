@@ -28,7 +28,7 @@
       <property name="output-name" type="string" value="Primary"/>
     </property>
     <property name="panel-2" type="empty">
-      <property name="autohide-behavior" type="uint" value="2"/>
+      <property name="autohide-behavior" type="uint" value="1"/>
       <property name="position" type="string" value="p=6;x=1846;y=27"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="size" type="uint" value="48"/>
