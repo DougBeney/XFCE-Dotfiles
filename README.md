@@ -9,4 +9,4 @@ Requirements:
 
 Arch Linux notes:
 
-- `yay -Sy xcursor-chicago95-git chicago95-icon-theme-git chicago95-gtk-theme-git`
+- `yay -Sy xfce4 xfce4-goodies xcursor-chicago95-git chicago95-icon-theme-git chicago95-gtk-theme-git`

@@ -9,3 +9,4 @@
 !xfconf/xfce-perchannel-xml/xfce4-panel.xml
 !xfconf/xfce-perchannel-xml/xfwm4.xml
 !terminal/terminalrc
+!panel/**/*.desktop
