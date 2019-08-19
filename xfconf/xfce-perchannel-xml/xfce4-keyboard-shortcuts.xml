@@ -40,6 +40,9 @@
       <property name="&lt;Shift&gt;&lt;Super&gt;F10" type="string" value="amixer set Master 5%+"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;F9" type="string" value="amixer set Master 5%-"/>
       <property name="&lt;Shift&gt;&lt;Super&gt;F8" type="string" value="playerctl play-pause"/>
+      <property name="&lt;Primary&gt;&lt;Alt&gt;Return" type="string" value="thunar"/>
+      <property name="&lt;Super&gt;c" type="string" value="galculator"/>
+      <property name="&lt;Super&gt;t" type="string" value="leafpad"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

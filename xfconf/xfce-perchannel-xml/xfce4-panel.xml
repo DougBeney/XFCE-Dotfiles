@@ -4,7 +4,6 @@
   <property name="configver" type="int" value="2"/>
   <property name="panels" type="array">
     <value type="int" value="1"/>
-    <value type="int" value="2"/>
     <property name="panel-1" type="empty">
       <property name="position" type="string" value="p=8;x=2640;y=1186"/>
       <property name="length" type="uint" value="100"/>
@@ -24,23 +23,6 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
-      </property>
-      <property name="output-name" type="string" value="Primary"/>
-    </property>
-    <property name="panel-2" type="empty">
-      <property name="autohide-behavior" type="uint" value="1"/>
-      <property name="position" type="string" value="p=6;x=1846;y=27"/>
-      <property name="position-locked" type="bool" value="true"/>
-      <property name="size" type="uint" value="48"/>
-      <property name="plugin-ids" type="array">
-        <value type="int" value="15"/>
-        <value type="int" value="16"/>
-        <value type="int" value="17"/>
-        <value type="int" value="18"/>
-        <value type="int" value="19"/>
-        <value type="int" value="20"/>
-        <value type="int" value="21"/>
-        <value type="int" value="22"/>
       </property>
       <property name="output-name" type="string" value="Primary"/>
     </property>
@@ -65,6 +47,10 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="names-ordered" type="array">
+        <value type="string" value="skypeforlinux"/>
+        <value type="string" value="slack"/>
+        <value type="string" value="the kde crash handler"/>
+        <value type="string" value="gpmdp"/>
         <value type="string" value="vlc"/>
         <value type="string" value="insync.py"/>
         <value type="string" value="guake"/>
@@ -79,7 +65,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="Gwenview;vlc"/>
+      <property name="mpris-players" type="string" value="google-play-music-desktop-player;Gwenview;rhythmbox;spotify;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -91,31 +77,5 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-14" type="string" value="actions"/>
-    <property name="plugin-15" type="string" value="showdesktop"/>
-    <property name="plugin-16" type="string" value="separator"/>
-    <property name="plugin-17" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="15660531961.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-18" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="15660531962.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-19" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="15660531963.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-20" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="15660531964.desktop"/>
-      </property>
-    </property>
-    <property name="plugin-21" type="string" value="separator"/>
-    <property name="plugin-22" type="string" value="directorymenu">
-      <property name="base-directory" type="string" value="/home/doug"/>
-    </property>
   </property>
 </channel>
