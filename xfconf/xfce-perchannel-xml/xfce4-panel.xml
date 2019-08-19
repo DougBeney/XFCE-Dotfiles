@@ -47,8 +47,12 @@
       <property name="show-frame" type="bool" value="false"/>
       <property name="square-icons" type="bool" value="true"/>
       <property name="names-ordered" type="array">
-        <value type="string" value="slack"/>
         <value type="string" value="blueman-tray"/>
+        <value type="string" value="skypeforlinux"/>
+        <value type="string" value="slack"/>
+        <value type="string" value="the kde crash handler"/>
+        <value type="string" value="gpmdp"/>
+        <value type="string" value="vlc"/>
         <value type="string" value="insync.py"/>
         <value type="string" value="guake"/>
         <value type="string" value="kgpg"/>
@@ -62,7 +66,7 @@
     <property name="plugin-8" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
       <property name="show-notifications" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="Gwenview"/>
+      <property name="mpris-players" type="string" value="google-play-music-desktop-player;Gwenview;rhythmbox;spotify;vlc"/>
     </property>
     <property name="plugin-9" type="string" value="power-manager-plugin"/>
     <property name="plugin-10" type="string" value="notification-plugin"/>
@@ -78,6 +82,5 @@
       <property name="style" type="uint" value="0"/>
     </property>
     <property name="plugin-14" type="string" value="actions"/>
-    <property name="plugin-4" type="string" value="whiskermenu"/>
   </property>
 </channel>
